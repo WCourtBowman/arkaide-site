@@ -7,3 +7,5 @@ nav a { margin-right: 18px; color: #b5651d; font-weight: 600; text-decoration: n
 a { color: #b5651d; }
 .card { background: #fff; border-radius: 14px; padding: 16px 20px; box-shadow: 0 1px 3px rgba(0,0,0,.08); }
 footer { margin-top: 48px; font-size: 14px; color: #8a7a66; }
+h3 { font-size: 19px; margin: 26px 0 4px; }
+.story { font-style: italic; color: #6b5a47; margin-top: 0; }
